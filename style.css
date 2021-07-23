@@ -1,0 +1,31 @@
+body {
+background-color:#282a36;
+font-family: Iosevka;
+width:90%;
+margin: 0 auto;
+text-align: left;
+}
+
+h1 {
+    color:#50fa7b;
+    font-size: 250%;
+    font-style: oblique;
+}
+
+h2 {
+    color:#bd93f9 ;
+}
+
+p {
+    color:#8be9fd;
+}
+
+ul {
+    color:#ff79c6;
+    list-style-type: upper-roman;
+}
+
+address {
+    margin-top: 16%;
+    color:#ffb86c;
+}
