@@ -1,18 +1,18 @@
 @font-face {
 	font-family: 'Iosevka Web';
 	font-display: swap;
-	font-weight: 100;
+	font-weight: 400;
 	font-stretch: normal;
 	font-style: normal;
-	src: url('woff2/iosevka.woff2') format('woff2'), url('ttf/iosevka-thin.ttf') format('truetype');
+	src: url('woff2/iosevka.woff2') format('woff2'), url('ttf/iosevka.ttf') format('truetype');
 }
 
 @font-face {
 	font-family: 'Iosevka Web Oblique';
 	font-display: swap;
-	font-weight: 100;
+	font-weight: 400;
 	font-stretch: normal;
-	src: url('woff2/iosevka-oblique.woff2') format('woff2'), url('ttf/iosevka-thinoblique.ttf') format('truetype');
+	src: url('woff2/iosevka-oblique.woff2') format('woff2'), url('ttf/iosevka-oblique.ttf') format('truetype');
 }
 
 body {
